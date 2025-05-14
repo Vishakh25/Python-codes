@@ -21,3 +21,14 @@ Beginner Level
    - Display the multiplication table of a given number.
    - Calculate the factorial of a number.
    - Print Fibonacci sequence up to n terms.
+  
+4. Strings (Chapter 4)
+
+   - Count vowels and consonants in a string.
+   - Check if a string is a palindrome.
+   - Reverse a string without using slicing.
+   - Remove all punctuation from a string.
+
+5. Lists (Chapter 5)
+
+   -Find the maximum and minimum number in a list.
