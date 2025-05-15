@@ -31,4 +31,8 @@ Beginner Level
 
 5. Lists (Chapter 5)
 
-   -Find the maximum and minimum number in a list.
+   - Find the maximum and minimum number in a list.
+   - Remove duplicates from a list.
+   - Sort a list without using the built-in sort() function.
+   - Merge two sorted lists.
+
