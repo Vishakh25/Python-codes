@@ -36,3 +36,5 @@ Beginner Level
    - Sort a list without using the built-in sort() function.
    - Merge two sorted lists.
 
+Mini Project for Beginner level
+
