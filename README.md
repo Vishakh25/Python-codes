@@ -38,3 +38,9 @@ Beginner Level
 
 Mini Project for Beginner level
 
+   - Building a Calculator
+   - Building Contact book using Dict
+   - Dice Game
+   - Randome number guessing
+   - Building To-Do List
+
